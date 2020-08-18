@@ -25,7 +25,7 @@ export function FooterContainer() {
                 <Footer.Column>
                     <Footer.Link href="#">Account</Footer.Link>
                     <Footer.Link href="#">Redeem gift cards</Footer.Link>
-                    <Footer.Link href="#">Priacy</Footer.Link>
+                    <Footer.Link href="#">Piracy</Footer.Link>
                     <Footer.Link href="#">Speed Test</Footer.Link>
                 </Footer.Column>
                 
