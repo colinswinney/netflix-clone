@@ -90,7 +90,7 @@ Header.Profile = function HeaderProfile({ children, ...restProps }) {
 }
 
 Header.Picture = function HeaderPicture({ src, ...restProps }) {
-    return <Picture {...restProps} src={`/images/users/${src}.png`} />;
+    return <Picture {...restProps} src={process.env.PUBLIC_URL + `/images/users/${src}.png`} />;
 }
 
 Header.Dropdown = function HeaderDRopdown({ children, ...restProps }) {
