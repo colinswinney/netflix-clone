@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/netflix-clone/static/js/main.0032e564.chunk.js",
-    "main.js.map": "/netflix-clone/static/js/main.0032e564.chunk.js.map",
+    "main.js": "/netflix-clone/static/js/main.35ff28c6.chunk.js",
+    "main.js.map": "/netflix-clone/static/js/main.35ff28c6.chunk.js.map",
     "runtime-main.js": "/netflix-clone/static/js/runtime-main.bbcab00e.js",
     "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.bbcab00e.js.map",
     "static/js/2.2da8f62f.chunk.js": "/netflix-clone/static/js/2.2da8f62f.chunk.js",
     "static/js/2.2da8f62f.chunk.js.map": "/netflix-clone/static/js/2.2da8f62f.chunk.js.map",
     "index.html": "/netflix-clone/index.html",
-    "precache-manifest.ac25edaf06389129c3444e63cf591778.js": "/netflix-clone/precache-manifest.ac25edaf06389129c3444e63cf591778.js",
+    "precache-manifest.f2a574f33fa09485b3112a1ca721cc01.js": "/netflix-clone/precache-manifest.f2a574f33fa09485b3112a1ca721cc01.js",
     "service-worker.js": "/netflix-clone/service-worker.js",
     "static/js/2.2da8f62f.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.2da8f62f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bbcab00e.js",
     "static/js/2.2da8f62f.chunk.js",
-    "static/js/main.0032e564.chunk.js"
+    "static/js/main.35ff28c6.chunk.js"
   ]
 }
