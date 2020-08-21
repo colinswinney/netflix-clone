@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 ###
-/videos
+# /videos
 # /src/constants/firebase-config.js
