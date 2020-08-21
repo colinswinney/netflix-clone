@@ -37,7 +37,7 @@ Header.Search = function HeaderSearch({ searchTerm, setSearchTerm, ...restProps 
     return (
         <Search {...restProps}>
             <SearchIcon onClick={() => setSearchActive(!searchActive)}>
-                <img src="/images/icons/search.png" alt="Search" />
+                <img src={process.env.PUBLIC_URL + "/images/icons/search.png"} alt="Search" />
             </SearchIcon>
             <SearchInput
                 value={searchTerm}
