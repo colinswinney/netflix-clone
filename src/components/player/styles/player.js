@@ -47,6 +47,7 @@ export const Close = styled.button`
         height: 22px;
         width: 2px;
         background-color: white;
+        transform: rotate(45deg);
     }
     
     &:hover {
