@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { GlobalStyles } from './global-styles';
-import { App } from './app';
+import { App } from './App';
 import { FirebaseContext } from './context/firebase';
 import { config } from './constants/firebase-config';
 
