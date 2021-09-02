@@ -37,6 +37,9 @@ export default function Signin() {
         <HeaderContainer>
             <Form>
                 <Form.Title>Sign In</Form.Title>
+                <Form.TextBold>
+                        Please note, this website is for demonstration only.  There is NO reason to provide a real email address, and I literally won't be doing a thing with any information given. - Colin
+                </Form.TextBold>
                 {error && <Form.Error>{error}</Form.Error>}
                 
                 <Form.Base onSubmit={handleSignin} method="POST">

@@ -45,6 +45,9 @@ export default function Signup() {
             <HeaderContainer>
                 <Form>
                     <Form.Title>Sign Up</Form.Title>
+                    <Form.TextBold>
+                        Please note, this website is for demonstration only.  There is NO reason to provide a real email address, and I literally won't be doing a thing with any information given. - Colin
+                    </Form.TextBold>
                     {error && <Form.Error>{error}</Form.Error>}
                     
                     <Form.Base onSubmit={handleSignup} method="POST">
@@ -70,7 +73,7 @@ export default function Signup() {
                         </Form.Submit>
                         
                         <Form.Text>
-                            Already a user? <Form.Link to="/signin">Sign up now.</Form.Link>
+                            Already a user? <Form.Link to="/signin">Sign in now.</Form.Link>
                         </Form.Text>
                         <Form.TextSmall>
                             This page is protected by Google reCAPTCHA.

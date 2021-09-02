@@ -71,3 +71,8 @@ export const Text = styled.p`
         line-height: 22px;
     }
 `;
+
+export const TextItalic = styled(Text)`
+    font-style: italic;
+    flex-basis: 100%;
+`
