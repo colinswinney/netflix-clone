@@ -35,21 +35,13 @@ export const Title = styled.h1`
     color: #fff;
     font-size: 32px;
     font-weight: bold;
-    margin-bottom: 0;
+    margin-bottom: 28px;
 `;
 
-export const Text = styled.h2`
+export const Text = styled.h1`
     color: #737373;
     font-size: 16px;
     font-weight: 500;
-`;
-
-export const TextBold = styled.h2`
-    color: #aaa;
-    font-size: 16px;
-    font-weight: bold;
-    font-style: italic;
-    margin-bottom: 28px;
 `;
 
 export const TextSmall = styled.h2`

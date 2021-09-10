@@ -18,7 +18,6 @@ export default function Home() {
                         <OptForm.Break />
                         <OptForm.Text>Ready to watch? Enter your email to create or restart
                         your membership.</OptForm.Text>
-                        <OptForm.TextItalic>Please note, this website is for demonstration only.<br/>There is NO reason to provide any personal information.</OptForm.TextItalic>
                     </OptForm>
                 </Feature>
             </HeaderContainer>

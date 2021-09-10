@@ -4,8 +4,7 @@ import {
     Error, 
     Base, 
     Title, 
-    Text,
-    TextBold, 
+    Text, 
     TextSmall,
     Link,
     Input, 
@@ -26,10 +25,6 @@ Form.Title = function FormTitle({ children, ...restProps }) {
 
 Form.Text = function FormText({ children, ...restProps }) {
     return <Text {...restProps}>{children}</Text>;
-}
-
-Form.TextBold = function FormTextBold({ children, ...restProps }) {
-    return <TextBold {...restProps}>{children}</TextBold>;
 }
 
 Form.TextSmall = function FormTextSmall({ children, ...restProps }) {
